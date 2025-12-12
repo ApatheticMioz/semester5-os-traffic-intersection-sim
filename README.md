@@ -1,5 +1,7 @@
 # semester5-os-traffic-intersection-sim
 
+> **Status:** Refactored & Active
+
 Traffic intersection simulator modeling two junctions (F10/F11) with vehicles, signals, parking, and emergency corridors to demonstrate operating systems concepts (processes, pthreads, semaphores, pipes, and signals).
 
 ## Tech stack

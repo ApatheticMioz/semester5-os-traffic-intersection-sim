@@ -8,6 +8,10 @@ node_modules/
 venv/
 __pycache__/
 
+# Project-specific binaries
+main
+traffic_sim
+
 # Compiled binaries and objects
 *.exe
 *.out
